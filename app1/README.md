@@ -26,6 +26,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Corrigir o erro “@angular-devkit/build-angular”
-
-Após clonar o repositório antes de digitar o comando `ng serve --open` , digite os comandos a seguir na sequência -> `npm i --only=dev`  `npm install` e `ng server --open`
